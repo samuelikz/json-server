@@ -2,262 +2,262 @@
     "users": [
         {
             "id": 1,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Miguel",
+            "email": "minguel22@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(85)84028-8061"
         },
         {
             "id": 2,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Davi",
+            "email": "davi@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(62)16146-3246"
         },
         {
             "id": 3,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Arthur",
+            "email": "Arthur@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(34)64101-0081"
         },
         {
             "id": 4,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Pedro",
+            "email": "pedro@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(63)43126-6376"
         },
         {
             "id": 5,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Gabriel",
+            "email": "gabriel@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(68)29479-6467"
         },
         {
             "id": 6,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Bernardo",
+            "email": "bernador@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(85)31782-8257"
         },
         {
             "id": 7,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Lucas",
+            "email": "lucas@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(62)73842-3776"
         },
         {
             "id": 8,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Matheus",
+            "email": "mateus@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(16)62483-8626"
         },
         {
             "id": 9,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Rafael",
+            "email": "rafael@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(84)63608-3196"
         },
         {
             "id": 10,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Heitor",
+            "email": "heitor@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(26)70842-1402"
         },
         {
             "id": 11,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Enzo",
+            "email": "enzo@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(74)78921-1945"
         },
         {
             "id": 12,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Guilherme",
+            "email": "gui55@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(24)76047-9896"
         },
         {
             "id": 13,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Nicolas",
+            "email": "nicolas@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(43)33970-4101"
         },
         {
             "id": 14,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Lorenzo",
+            "email": "lorenzo@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(31)70776-5613"
         },
         {
             "id": 15,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Gustavo",
+            "email": "gustavo@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(40)12543-4579"
         },
         {
             "id": 16,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Felipe",
+            "email": "felipe@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(42)47004-4780"
         },
         {
             "id": 17,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Samuel",
+            "email": "samuel@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(66)31007-8442"
         },
         {
             "id": 18,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "João Pedro",
+            "email": "joao@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(42)33815-2232"
         },
         {
             "id": 19,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Daniel",
+            "email": "daniel@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(76)21915-4094"
         },
         {
             "id": 20,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Vitor",
+            "email": "vitor@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(18)63822-0242"
         },
         {
             "id": 21,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Leonardo",
+            "email": "leo@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(31)20410-8100"
         },
         {
             "id": 22,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Henrique",
+            "email": "henri@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(67)21811-4938"
         },
         {
             "id": 23,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Theo",
+            "email": "theo@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(65)88974-8066"
         },
         {
             "id": 24,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Murilo",
+            "email": "murilo@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(48)15272-4741"
         },
         {
             "id": 25,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Eduardo",
+            "email": "eduardo@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(69)70097-5150"
         },
         {
             "id": 26,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Pedro Henrique",
+            "email": "pedroh@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(50)80881-1982"
         },
         {
             "id": 27,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Pietro",
+            "email": "pietro@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(54)36929-3001"
         },
         {
             "id": 28,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Cauã",
+            "email": "cuca@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(30)71294-9151"
         },
         {
             "id": 29,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Isaac",
+            "email": "issac@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(75)12226-3732"
         },
         {
             "id": 30,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Caio",
+            "email": "caio@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(70)89470-3417"
         },
         {
             "id": 31,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Vinicius",
+            "email": "vini@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(13)39695-1561"
         },
         {
             "id": 32,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Benjamin",
+            "email": "ben@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(80)15297-6535"
         },
         {
             "id": 33,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "João",
+            "email": "jop@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(75)54208-6884"
         },
         {
             "id": 34,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Lucca",
+            "email": "lucca@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(33)57971-9374"
         },
         {
             "id": 35,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "João Miguel",
+            "email": "minguel@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(17)40833-7121"
         },
         {
             "id": 36,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Bryan",
+            "email": "bryan4@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(42)55642-1804"
         },
         {
             "id": 37,
-            "nome": "typicode",
-            "email": "typicode",
+            "nome": "Davi Lucas",
+            "email": "davils@filingsdb.com",
             "cpf": "typicode",
-            "telefone": "typicode"
+            "telefone": "(88)80458-0403"
         }
     ],
     "pets":[
