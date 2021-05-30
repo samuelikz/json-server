@@ -4,567 +4,633 @@
             "id": 1,
             "nome": "Miguel",
             "email": "minguel22@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "675.242.580-97",
             "telefone": "(85)84028-8061"
         },
         {
             "id": 2,
             "nome": "Davi",
             "email": "davi@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "905.832.400-11",
             "telefone": "(62)16146-3246"
         },
         {
             "id": 3,
             "nome": "Arthur",
             "email": "Arthur@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "111.938.800-76",
             "telefone": "(34)64101-0081"
         },
         {
             "id": 4,
             "nome": "Pedro",
             "email": "pedro@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "545.674.550-02",
             "telefone": "(63)43126-6376"
         },
         {
             "id": 5,
             "nome": "Gabriel",
             "email": "gabriel@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "111.790.500-45",
             "telefone": "(68)29479-6467"
         },
         {
             "id": 6,
             "nome": "Bernardo",
             "email": "bernador@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "766.995.050-17",
             "telefone": "(85)31782-8257"
         },
         {
             "id": 7,
             "nome": "Lucas",
             "email": "lucas@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "086.947.200-35",
             "telefone": "(62)73842-3776"
         },
         {
             "id": 8,
             "nome": "Matheus",
             "email": "mateus@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "391.422.040-62",
             "telefone": "(16)62483-8626"
         },
         {
             "id": 9,
             "nome": "Rafael",
             "email": "rafael@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "824.695.580-26",
             "telefone": "(84)63608-3196"
         },
         {
             "id": 10,
             "nome": "Heitor",
             "email": "heitor@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "067.387.590-37",
             "telefone": "(26)70842-1402"
         },
         {
             "id": 11,
             "nome": "Enzo",
             "email": "enzo@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "013.600.520-97",
             "telefone": "(74)78921-1945"
         },
         {
             "id": 12,
             "nome": "Guilherme",
             "email": "gui55@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "013.600.520-97",
             "telefone": "(24)76047-9896"
         },
         {
             "id": 13,
             "nome": "Nicolas",
             "email": "nicolas@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "965.238.000-83",
             "telefone": "(43)33970-4101"
         },
         {
             "id": 14,
             "nome": "Lorenzo",
             "email": "lorenzo@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "640.960.540-46",
             "telefone": "(31)70776-5613"
         },
         {
             "id": 15,
             "nome": "Gustavo",
             "email": "gustavo@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "585.514.140-38",
             "telefone": "(40)12543-4579"
         },
         {
             "id": 16,
             "nome": "Felipe",
             "email": "felipe@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "358.094.890-36",
             "telefone": "(42)47004-4780"
         },
         {
             "id": 17,
             "nome": "Samuel",
             "email": "samuel@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "060.601.220-60",
             "telefone": "(66)31007-8442"
         },
         {
             "id": 18,
             "nome": "João Pedro",
             "email": "joao@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "345.518.460-07",
             "telefone": "(42)33815-2232"
         },
         {
             "id": 19,
             "nome": "Daniel",
             "email": "daniel@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "902.662.000-44",
             "telefone": "(76)21915-4094"
         },
         {
             "id": 20,
             "nome": "Vitor",
             "email": "vitor@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "240.321.640-29",
             "telefone": "(18)63822-0242"
         },
         {
             "id": 21,
             "nome": "Leonardo",
             "email": "leo@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "862.303.860-62",
             "telefone": "(31)20410-8100"
         },
         {
             "id": 22,
             "nome": "Henrique",
             "email": "henri@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "862.303.860-62",
             "telefone": "(67)21811-4938"
         },
         {
             "id": 23,
             "nome": "Theo",
             "email": "theo@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "142.030.190-01",
             "telefone": "(65)88974-8066"
         },
         {
             "id": 24,
             "nome": "Murilo",
             "email": "murilo@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "241.035.600-10",
             "telefone": "(48)15272-4741"
         },
         {
             "id": 25,
             "nome": "Eduardo",
             "email": "eduardo@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "236.405.890-25",
             "telefone": "(69)70097-5150"
         },
         {
             "id": 26,
             "nome": "Pedro Henrique",
             "email": "pedroh@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "749.552.590-81",
             "telefone": "(50)80881-1982"
         },
         {
             "id": 27,
             "nome": "Pietro",
             "email": "pietro@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "763.946.790-03",
             "telefone": "(54)36929-3001"
         },
         {
             "id": 28,
             "nome": "Cauã",
             "email": "cuca@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "824.829.200-27",
             "telefone": "(30)71294-9151"
         },
         {
             "id": 29,
             "nome": "Isaac",
             "email": "issac@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "028.940.080-58",
             "telefone": "(75)12226-3732"
         },
         {
             "id": 30,
             "nome": "Caio",
             "email": "caio@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "359.520.920-63",
             "telefone": "(70)89470-3417"
         },
         {
             "id": 31,
             "nome": "Vinicius",
             "email": "vini@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "486.516.410-36",
             "telefone": "(13)39695-1561"
         },
         {
             "id": 32,
             "nome": "Benjamin",
             "email": "ben@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "046.374.350-48",
             "telefone": "(80)15297-6535"
         },
         {
             "id": 33,
             "nome": "João",
             "email": "jop@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "262.026.620-34",
             "telefone": "(75)54208-6884"
         },
         {
             "id": 34,
             "nome": "Lucca",
             "email": "lucca@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "835.784.880-03",
             "telefone": "(33)57971-9374"
         },
         {
             "id": 35,
             "nome": "João Miguel",
             "email": "minguel@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "709.923.490-01",
             "telefone": "(17)40833-7121"
         },
         {
             "id": 36,
             "nome": "Bryan",
             "email": "bryan4@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "961.964.570-71",
             "telefone": "(42)55642-1804"
         },
         {
             "id": 37,
             "nome": "Davi Lucas",
             "email": "davils@filingsdb.com",
-            "cpf": "typicode",
+            "cpf": "275.757.790-51",
             "telefone": "(88)80458-0403"
         }
     ],
     "pets":[
         {
             "id": 1,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Babalu",
+            "sexo": "fêmea",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "3",
+            "raca": "Husky siberiano",
+            "urlimage":"https://i.imgur.com/p0YOKfd.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Amigável, trabalhador e extrovertido"
         },{
             "id": 2,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Bambi",
+            "sexo": "fêmea",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "3",
+            "raca": "Boston terrier",
+            "urlimage":"https://i.imgur.com/txfkjUd.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Amigável, inteligente e vivaz"
         },{
             "id": 3,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Cascão",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "1",
+            "raca": "Boxer",
+            "urlimage":"https://i.imgur.com/l9Hg3y9.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Leal, afetuoso e brincalhão"
         },{
             "id": 4,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Dobby",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "1",
+            "raca": "Chow chow",
+            "urlimage":"https://i.imgur.com/TGPBGpl.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Calmo, leal e orgulhoso"
         },{
             "id": 5,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Dinho",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "3",
+            "raca": "Cocker spaniel inglês",
+            "urlimage":"https://i.imgur.com/Uj1a5zL.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Alegre, carinhoso e cheio de vida"
         },{
             "id": 6,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Érico",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "3",
+            "raca": "Dogo argentino",
+            "urlimage":"https://i.imgur.com/ypwyPnW.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Leal, confiável e corajoso"
         },{
             "id": 7,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Fusca",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "4",
+            "raca": "Fila brasileiro",
+            "urlimage":"https://i.imgur.com/YFnogYu.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Companheiro, corajoso e amoroso"
         },{
             "id": 8,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Luke",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "3",
+            "raca": "Golden retriever",
+            "urlimage":"https://i.imgur.com/WptspWR.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Inteligente, brincalhão e leal"
         },{
             "id": 9,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Pingo",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "1",
+            "raca": "Mastim tibetano",
+            "urlimage":"https://i.imgur.com/KWz0WaX.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Independente, reservado e inteligente"
         },{
             "id": 10,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Duque",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "2",
+            "raca": "Yorkshire",
+            "urlimage":"https://i.imgur.com/WI545nh.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Destemido, carinhoso e cheio de energia"
         },{
             "id": 11,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Lorde",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "3",
+            "raca": "Staffordshire bull terrier",
+            "urlimage":"https://i.imgur.com/jF8w7A7.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Inteligente, corajoso e determinado"
         },{
             "id": 12,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Dexter",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "2",
+            "raca": "Shih tzu",
+            "urlimage":"https://i.imgur.com/3KyLYer.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Carinhoso, brincalhão e encantador"
         },{
             "id": 13,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Rocky",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "1",
+            "raca": "Shiba",
+            "urlimage":"https://i.imgur.com/FgNvi0a.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Independente, leal e alerta"
         },{
             "id": 14,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Dom",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "2",
+            "raca": "Shar-pei",
+            "urlimage":"https://i.imgur.com/SlFPIir.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Amoroso, companheiro e brincalhão"
         },{
             "id": 15,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Negão",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "1",
+            "raca": "Schnauzer",
+            "urlimage":"https://i.imgur.com/aqXGgTz.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Dócil, leal e companheiro"
         },{
             "id": 16,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Sansão",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "1",
+            "raca": "Rottweiler",
+            "urlimage":"https://i.imgur.com/ulitT7W.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Protetor, leal e inteligente"
         },{
             "id": 17,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Barthô",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "1",
+            "raca": "Pug",
+            "urlimage":"https://i.imgur.com/G92eCNA.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Amoroso, temperamental e companheiro"
         },{
             "id": 18,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Toy",
+            "sexo": "fêmea",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "1",
+            "raca": "Poodle",
+            "urlimage":"https://i.imgur.com/BoTprJZ.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Orgulhoso, ativo e inteligente"
         },{
             "id": 19,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Nero",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "2",
+            "raca": "Pit bull",
+            "urlimage":"https://i.imgur.com/3yp3rxR.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Inteligente, forte e leal"
         },{
             "id": 20,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Whisky",
+            "sexo": "fêmea",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "1",
+            "raca": "Pequinês",
+            "urlimage":"https://i.imgur.com/gOtE5j1.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Afetuoso, leal e elegante"
         },{
             "id": 21,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Rex",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "1",
+            "raca": "Pastor australiano",
+            "urlimage":"https://i.imgur.com/qpFaRkJ.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Esperto, trabalhador e exuberante"
         },{
             "id": 22,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Milo",
+            "sexo": "fêmea",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "2",
+            "raca": "Pastor alemão",
+            "urlimage":"https://i.imgur.com/ffrJ59o.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Confiante, corajoso e inteligente"
         },{
             "id": 23,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Neguinho",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "3",
+            "raca": "Maltês",
+            "urlimage":"https://i.imgur.com/gjUFYHe.png",
+            "categoria": "Cachorro",
+            "descrincao":"Gentil, brincalhão e afetuoso"
         },{
             "id": 24,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Chocolate",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "1",
+            "raca": "Lhasa apso",
+            "urlimage":"https://i.imgur.com/LHfCDod.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Esperto, confiante e independente"
         },{
             "id": 25,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Kevin",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "6",
+            "raca": "Labrador retriever",
+            "urlimage":"https://i.imgur.com/DcWTW5L.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Inteligente, carinhoso e brincalhão"
         },{
             "id": 26,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Eddie",
+            "sexo": "fêmea",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "1",
+            "raca": "Jack russell terrier",
+            "urlimage":"https://i.imgur.com/9ZI4JlN.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Amigável, atlético e alerta"
         },{
             "id": 27,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Blue",
+            "sexo": "fêmea",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "2",
+            "raca": "Husky siberiano",
+            "urlimage":"https://i.imgur.com/ePQl5JX.png",
+            "categoria": "Cachorro",
+            "descrincao":"Amigável, trabalhador e extrovertido"
         },{
             "id": 28,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Homer",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "3",
+            "raca": "Dálmata",
+            "urlimage":"https://i.imgur.com/x6vBGoe.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Atlético, protetor e amável"
         },{
             "id": 29,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Caramelo",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "5",
+            "raca": "Dachshund",
+            "urlimage":"https://i.imgur.com/sBlPSyJ.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Corajoso, animado e inteligente"
         },{
             "id": 30,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Chewie",
+            "sexo": "fêmea",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "1",
+            "raca": "Chow chow",
+            "urlimage":"https://i.imgur.com/x0zcMW0.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Calmo, leal e orgulhoso"
         },{
             "id": 31,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Tunico",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "2",
+            "raca": "Cane corso",
+            "urlimage":"https://i.imgur.com/gMOPjRj.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Calmo, leal e orgulhoso"
         },{
             "id": 32,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Aslam",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "4",
+            "raca": "Border collie",
+            "urlimage":"https://i.imgur.com/ice3bkQ.png",
+            "categoria": "Cachorro",
+            "descrincao":"Amigável, inteligente e vivaz"
         },{
             "id": 33,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Raj",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "1",
+            "raca": "Boiadeiro australiano",
+            "urlimage":"https://i.imgur.com/klgHnyu.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Alerta, curioso e leal"
         },{
             "id": 34,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Ruffus",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "1",
+            "raca": "Bichon frisé",
+            "urlimage":"https://i.imgur.com/SkHJphg.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Brincalhão, curioso e afetivo"
         },{
             "id": 35,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Buddy",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "2",
+            "raca": "Beagle",
+            "urlimage":"https://i.imgur.com/qnC5lEt.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Alegre, companheiro e aventureiro"
         },{
             "id": 36,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Simba",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "3",
+            "raca": "Basset hound",
+            "urlimage":"https://i.imgur.com/KgRqH8R.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Paciente, teimoso e charmoso"
         },{
             "id": 37,
-            "nome": "typicode",
-            "sexo": "typicode",
+            "nome": "Dudu",
+            "sexo": "macho",
             "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
-        },{
-            "id": 38,
-            "nome": "typicode",
-            "sexo": "typicode",
-            "cpf": "typicode",
-            "idade": "typicode",
-            "raca": "typicode",
-            "urlimage":"https://imgur.com/EU9F6oa"
+            "idade": "2",
+            "raca": "Akita",
+            "urlimage":"https://i.imgur.com/xuuC4Gy.jpg",
+            "categoria": "Cachorro",
+            "descrincao":"Leal, amigo e brincalhão"
         }
     ]
 }
