@@ -1,15 +1,24 @@
 {
   "name": "api-fake",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "json-server": "^0.16.3"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "json-server db.json"
+    "start": "json-server --watch db.json"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelikz/json-server.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/samuelikz/json-server/issues"
+  },
+  "homepage": "https://github.com/samuelikz/json-server#readme",
+  "description": ""
 }
