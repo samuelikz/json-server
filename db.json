@@ -269,7 +269,7 @@
             "idade": "3",
             "raca": "Husky siberiano",
             "urlimage":"https://i.imgur.com/p0YOKfd.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Amigável, trabalhador e extrovertido"
         },{
             "id": 2,
@@ -279,7 +279,7 @@
             "idade": "3",
             "raca": "Boston terrier",
             "urlimage":"https://i.imgur.com/txfkjUd.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Amigável, inteligente e vivaz"
         },{
             "id": 3,
@@ -289,7 +289,7 @@
             "idade": "1",
             "raca": "Boxer",
             "urlimage":"https://i.imgur.com/l9Hg3y9.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Leal, afetuoso e brincalhão"
         },{
             "id": 4,
@@ -299,7 +299,7 @@
             "idade": "1",
             "raca": "Chow chow",
             "urlimage":"https://i.imgur.com/TGPBGpl.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Calmo, leal e orgulhoso"
         },{
             "id": 5,
@@ -309,7 +309,7 @@
             "idade": "3",
             "raca": "Cocker spaniel inglês",
             "urlimage":"https://i.imgur.com/Uj1a5zL.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Alegre, carinhoso e cheio de vida"
         },{
             "id": 6,
@@ -319,7 +319,7 @@
             "idade": "3",
             "raca": "Dogo argentino",
             "urlimage":"https://i.imgur.com/ypwyPnW.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Leal, confiável e corajoso"
         },{
             "id": 7,
@@ -329,7 +329,7 @@
             "idade": "4",
             "raca": "Fila brasileiro",
             "urlimage":"https://i.imgur.com/YFnogYu.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Companheiro, corajoso e amoroso"
         },{
             "id": 8,
@@ -339,7 +339,7 @@
             "idade": "3",
             "raca": "Golden retriever",
             "urlimage":"https://i.imgur.com/WptspWR.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Inteligente, brincalhão e leal"
         },{
             "id": 9,
@@ -349,7 +349,7 @@
             "idade": "1",
             "raca": "Mastim tibetano",
             "urlimage":"https://i.imgur.com/KWz0WaX.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Independente, reservado e inteligente"
         },{
             "id": 10,
@@ -359,7 +359,7 @@
             "idade": "2",
             "raca": "Yorkshire",
             "urlimage":"https://i.imgur.com/WI545nh.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Destemido, carinhoso e cheio de energia"
         },{
             "id": 11,
@@ -369,7 +369,7 @@
             "idade": "3",
             "raca": "Staffordshire bull terrier",
             "urlimage":"https://i.imgur.com/jF8w7A7.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Inteligente, corajoso e determinado"
         },{
             "id": 12,
@@ -379,7 +379,7 @@
             "idade": "2",
             "raca": "Shih tzu",
             "urlimage":"https://i.imgur.com/3KyLYer.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Carinhoso, brincalhão e encantador"
         },{
             "id": 13,
@@ -389,7 +389,7 @@
             "idade": "1",
             "raca": "Shiba",
             "urlimage":"https://i.imgur.com/FgNvi0a.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Independente, leal e alerta"
         },{
             "id": 14,
@@ -399,7 +399,7 @@
             "idade": "2",
             "raca": "Shar-pei",
             "urlimage":"https://i.imgur.com/SlFPIir.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Amoroso, companheiro e brincalhão"
         },{
             "id": 15,
@@ -409,7 +409,7 @@
             "idade": "1",
             "raca": "Schnauzer",
             "urlimage":"https://i.imgur.com/aqXGgTz.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Dócil, leal e companheiro"
         },{
             "id": 16,
@@ -419,7 +419,7 @@
             "idade": "1",
             "raca": "Rottweiler",
             "urlimage":"https://i.imgur.com/ulitT7W.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Protetor, leal e inteligente"
         },{
             "id": 17,
@@ -429,7 +429,7 @@
             "idade": "1",
             "raca": "Pug",
             "urlimage":"https://i.imgur.com/G92eCNA.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Amoroso, temperamental e companheiro"
         },{
             "id": 18,
@@ -439,7 +439,7 @@
             "idade": "1",
             "raca": "Poodle",
             "urlimage":"https://i.imgur.com/BoTprJZ.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Orgulhoso, ativo e inteligente"
         },{
             "id": 19,
@@ -449,7 +449,7 @@
             "idade": "2",
             "raca": "Pit bull",
             "urlimage":"https://i.imgur.com/3yp3rxR.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Inteligente, forte e leal"
         },{
             "id": 20,
@@ -459,7 +459,7 @@
             "idade": "1",
             "raca": "Pequinês",
             "urlimage":"https://i.imgur.com/gOtE5j1.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Afetuoso, leal e elegante"
         },{
             "id": 21,
@@ -469,7 +469,7 @@
             "idade": "1",
             "raca": "Pastor australiano",
             "urlimage":"https://i.imgur.com/qpFaRkJ.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Esperto, trabalhador e exuberante"
         },{
             "id": 22,
@@ -479,7 +479,7 @@
             "idade": "2",
             "raca": "Pastor alemão",
             "urlimage":"https://i.imgur.com/ffrJ59o.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Confiante, corajoso e inteligente"
         },{
             "id": 23,
@@ -489,7 +489,7 @@
             "idade": "3",
             "raca": "Maltês",
             "urlimage":"https://i.imgur.com/gjUFYHe.png",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Gentil, brincalhão e afetuoso"
         },{
             "id": 24,
@@ -499,7 +499,7 @@
             "idade": "1",
             "raca": "Lhasa apso",
             "urlimage":"https://i.imgur.com/LHfCDod.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Esperto, confiante e independente"
         },{
             "id": 25,
@@ -509,7 +509,7 @@
             "idade": "6",
             "raca": "Labrador retriever",
             "urlimage":"https://i.imgur.com/DcWTW5L.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Inteligente, carinhoso e brincalhão"
         },{
             "id": 26,
@@ -519,7 +519,7 @@
             "idade": "1",
             "raca": "Jack russell terrier",
             "urlimage":"https://i.imgur.com/9ZI4JlN.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Amigável, atlético e alerta"
         },{
             "id": 27,
@@ -529,7 +529,7 @@
             "idade": "2",
             "raca": "Husky siberiano",
             "urlimage":"https://i.imgur.com/ePQl5JX.png",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Amigável, trabalhador e extrovertido"
         },{
             "id": 28,
@@ -539,7 +539,7 @@
             "idade": "3",
             "raca": "Dálmata",
             "urlimage":"https://i.imgur.com/x6vBGoe.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Atlético, protetor e amável"
         },{
             "id": 29,
@@ -549,7 +549,7 @@
             "idade": "5",
             "raca": "Dachshund",
             "urlimage":"https://i.imgur.com/sBlPSyJ.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Corajoso, animado e inteligente"
         },{
             "id": 30,
@@ -559,7 +559,7 @@
             "idade": "1",
             "raca": "Chow chow",
             "urlimage":"https://i.imgur.com/x0zcMW0.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Calmo, leal e orgulhoso"
         },{
             "id": 31,
@@ -569,7 +569,7 @@
             "idade": "2",
             "raca": "Cane corso",
             "urlimage":"https://i.imgur.com/gMOPjRj.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Calmo, leal e orgulhoso"
         },{
             "id": 32,
@@ -579,7 +579,7 @@
             "idade": "4",
             "raca": "Border collie",
             "urlimage":"https://i.imgur.com/ice3bkQ.png",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Amigável, inteligente e vivaz"
         },{
             "id": 33,
@@ -589,7 +589,7 @@
             "idade": "1",
             "raca": "Boiadeiro australiano",
             "urlimage":"https://i.imgur.com/klgHnyu.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Alerta, curioso e leal"
         },{
             "id": 34,
@@ -599,7 +599,7 @@
             "idade": "1",
             "raca": "Bichon frisé",
             "urlimage":"https://i.imgur.com/SkHJphg.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Brincalhão, curioso e afetivo"
         },{
             "id": 35,
@@ -609,7 +609,7 @@
             "idade": "2",
             "raca": "Beagle",
             "urlimage":"https://i.imgur.com/qnC5lEt.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Alegre, companheiro e aventureiro"
         },{
             "id": 36,
@@ -619,7 +619,7 @@
             "idade": "3",
             "raca": "Basset hound",
             "urlimage":"https://i.imgur.com/KgRqH8R.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Paciente, teimoso e charmoso"
         },{
             "id": 37,
@@ -629,7 +629,7 @@
             "idade": "2",
             "raca": "Akita",
             "urlimage":"https://i.imgur.com/xuuC4Gy.jpg",
-            "categoria": "Cachorro",
+            "categoria": "cachorro",
             "descrincao":"Leal, amigo e brincalhão"
         }
     ]
